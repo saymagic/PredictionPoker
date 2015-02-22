@@ -9,7 +9,7 @@ This is a project for doing magic prediction effect  which JiaHong Zhou had Perf
 
 # Note:
 
-This app is the only prediction, if you want to play this magic,you also need a poke and some magic settings . You can watch the full show here:http://www.iqiyi.com/v_19rro18js0.html#vfrm=2-3-0-1&curid=349364300_8e1d415dd3c843607ff821ceee70f220.
+This app is the only prediction, if you want to play this magic,you also need a poke and some magic settings . You can watch the full show here:[http://www.iqiyi.com/v_19rro18js0.html#vfrm=2-3-0-1&curid=349364300_8e1d415dd3c843607ff821ceee70f220](http://www.iqiyi.com/v_19rro18js0.html#vfrm=2-3-0-1&curid=349364300_8e1d415dd3c843607ff821ceee70f220).
 
 ##License
 -------
