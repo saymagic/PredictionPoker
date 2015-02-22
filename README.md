@@ -2,12 +2,12 @@
 This is a project for doing magic prediction effect  which JiaHong Zhou had Perform in chinese 2015  spring show.
 
 
-Effect:
+# Effect:
 
 ![http://cdn.saymagic.cn/o_19enrism0vbfip75q41av4106c9.gif](http://cdn.saymagic.cn/o_19enrism0vbfip75q41av4106c9.gif)
 
 
-Note:
+# Note:
 
 This app is the only prediction, if you want to play this magic,you also need a poke and some magic settings . You can watch the full show here:http://www.iqiyi.com/v_19rro18js0.html#vfrm=2-3-0-1&curid=349364300_8e1d415dd3c843607ff821ceee70f220.
 
